@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "624ad63cfa1077369a524ee6",
+        "index": 1,
+        "picture": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
+        "name": "Black T shirt",
+        "gender": "female"
+    },
+    {
+        "_id": "624ad63cc2324f4b6049b76c",
+        "index": 2,
+        "picture": "https://static.fibre2fashion.com/MemberResources/LeadResources/1/2017/9/Seller/17133153/Images/17133153_0_men-s-t-shirt.jpg",
+        "name": "Black and white t shirt",
+        "gender": "male"
+    },
+    {
+        "_id": "624ad63ccf22a7a5f13f6b8f",
+        "index": 3,
+        "picture": "https://fabrilife.com/image-gallery/61a794e19d4b4-square.jpg",
+        "name": "Monica Dunn",
+        "gender": "female"
+    },
+    {
+        "_id": "624ad63ce373a04ace69c7c0",
+        "index": 4,
+        "picture": "https://static.aadi.com.bd/__sized__/products/14407-52209-t-shirt-mashira-106119-1-crop-c0-5__0-5-400x500-70.jpg",
+        "name": "Adi",
+        "gender": "male"
+    },
+    {
+        "_id": "624ad63cd2a73c23f9317615",
+        "index": 5,
+        "picture": "https://media.gq.com/photos/60be6c1dd931a0e0dacdeb14/master/w_1280%2Cc_limit/Kirkland-Signature-crew-neck-t-shirts-(6-pack).jpg",
+        "name": "white t Shirt",
+        "gender": "male"
+    },
+    {
+        "_id": "624ad63cd2a73c23f9317615",
+        "index": 5,
+        "picture": "https://media.gq.com/photos/60be6c1dd931a0e0dacdeb14/master/w_1280%2Cc_limit/Kirkland-Signature-crew-neck-t-shirts-(6-pack).jpg",
+        "name": "white t Shirt",
+        "gender": "male"
+    }
+]
